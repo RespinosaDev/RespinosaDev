@@ -11,7 +11,7 @@ Estoy buscando **prácticas** o un trabajo a tiempo parcial en desarrollo de sof
 | Proyecto | Qué es | Tecnologías |
 |----------|--------|-------------|
 | [**bot-automatizacion-facturas**](https://github.com/RespinosaDev/bot-automatizacion-facturas) | Proyecto personal: bot que procesa facturas en PDF de principio a fin, con OCR, validación de datos fiscales, detección de duplicados, informe Excel y panel web | Python · PyMuPDF · Tesseract · SQLite · Streamlit |
-| [**api-biblioteca-sos**](https://github.com/RespinosaDev/api-biblioteca-sos) | API REST para gestionar una biblioteca, con préstamos y sanciones automáticas | Java · Spring Boot · JPA · PostgreSQL |
+| [**api-biblioteca-sos**](https://github.com/RespinosaDev/api-biblioteca-sos) | API REST para gestionar una biblioteca, con préstamos y sanciones automáticas, desplegable con Docker Compose | Java · Spring Boot · JPA · PostgreSQL · Docker |
 | [**procesador-myjs**](https://github.com/RespinosaDev/procesador-myjs) | Procesador de un subconjunto de JavaScript: análisis léxico, sintáctico LL(1) y semántico | Java |
 | [**modulador-de-voz**](https://github.com/RespinosaDev/modulador-de-voz) | Aplicación para cambiar el tono y la velocidad de la voz y analizarla: LPC, formantes, flujo glotal, pitch y cepstrum | Python · NumPy · SciPy · Matplotlib · Tkinter |
 | [**metro-cdmx-astar**](https://github.com/RespinosaDev/metro-cdmx-astar) | Rutas óptimas en el Metro de la Ciudad de México con el algoritmo A* | Java · JavaFX |
@@ -27,7 +27,7 @@ Estoy buscando **prácticas** o un trabajo a tiempo parcial en desarrollo de sof
 **Datos, IA y señal:** PostgreSQL · MySQL · SQLite · NumPy · SciPy · OpenCV · Matplotlib · procesamiento de voz<br>
 **Interfaces:** JavaFX · Tkinter<br>
 **Automatización:** OCR (Tesseract) · extracción de datos de PDF · Streamlit · openpyxl<br>
-**Herramientas:** Git · GitHub Actions · Maven · JUnit · pytest · Linux
+**Herramientas:** Git · Docker · Docker Compose · GitHub Actions · Maven · JUnit · pytest · Linux
 
 ### Idiomas
 
