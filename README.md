@@ -1,10 +1,10 @@
-## Hola, soy Ricardo 👋
+## Hola, soy Ricardo 
 
-Estudiante de **Ingeniería Informática** en la Universidad Politécnica de Madrid (Campus de Montegancedo). Me interesa sobre todo el **desarrollo backend en Java** y también he trabajado con algoritmos de IA, compiladores, visión por computador y programación a bajo nivel.
+Estudiante de **Ingeniería Informática** en la Universidad Politécnica de Madrid (Campus de Montegancedo). Me interesa sobre todo el **desarrollo backend en Java, la hiperautomatización** y también he trabajado con algoritmos de IA, compiladores, visión por computador y programación a bajo nivel.
 
 Busco **prácticas** o un puesto a tiempo parcial en desarrollo de software.
 
-> 📌 **Si ves que mis repositorios se han subido hace poco** es porque estoy actualizando mi GitHub: he recuperado, revisado y documentado los proyectos que hice durante la carrera para reunirlos aquí.
+>  **Si ves que mis repositorios se han subido hace poco** es porque estoy actualizando mi GitHub: he recuperado, revisado y documentado los proyectos que hice durante la carrera para reunirlos aquí.
 
 ### Proyectos
 
@@ -31,4 +31,4 @@ Español (nativo) · Inglés (B2) · Francés (B2)
 
 ---
 
-<sub>🇬🇧 Computer Engineering student at UPM (Madrid), focused on Java backend development. Open to internships. My repositories were uploaded recently because I'm bringing my university projects together on GitHub, reviewed and documented.</sub>
+<sub> Computer Engineering student at UPM (Madrid), focused on Java backend development. Open to internships. My repositories were uploaded recently because I'm bringing my university projects together on GitHub, reviewed and documented.</sub>
