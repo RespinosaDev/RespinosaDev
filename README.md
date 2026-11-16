@@ -4,12 +4,13 @@ Estudio **Ingeniería Informática** en la Universidad Politécnica de Madrid (C
 
 Estoy buscando **prácticas** o un trabajo a tiempo parcial en desarrollo de software.
 
-> **Si ves que los repositorios se han subido hace poco**, es porque estoy poniendo al día mi GitHub: he ido recuperando los proyectos que hice en la carrera, los he repasado y los he documentado para tenerlos todos aquí.
+> **Si ves que los repositorios se han subido hace poco**, es porque estoy poniendo al día mi GitHub: he ido recuperando los proyectos que hice en la carrera, los he repasado y los he documentado para tenerlos todos aquí, junto a mis proyectos personales.
 
 ### Proyectos
 
 | Proyecto | Qué es | Tecnologías |
 |----------|--------|-------------|
+| [**bot-automatizacion-facturas**](https://github.com/RespinosaDev/bot-automatizacion-facturas) | Proyecto personal: bot que procesa facturas en PDF de principio a fin, con OCR, validación de datos fiscales, detección de duplicados, informe Excel y panel web | Python · PyMuPDF · Tesseract · SQLite · Streamlit |
 | [**api-biblioteca-sos**](https://github.com/RespinosaDev/api-biblioteca-sos) | API REST para gestionar una biblioteca, con préstamos y sanciones automáticas | Java · Spring Boot · JPA · PostgreSQL |
 | [**procesador-myjs**](https://github.com/RespinosaDev/procesador-myjs) | Procesador de un subconjunto de JavaScript: análisis léxico, sintáctico LL(1) y semántico | Java |
 | [**modulador-de-voz**](https://github.com/RespinosaDev/modulador-de-voz) | Aplicación para cambiar el tono y la velocidad de la voz y analizarla: LPC, formantes, flujo glotal, pitch y cepstrum | Python · NumPy · SciPy · Matplotlib · Tkinter |
@@ -23,9 +24,10 @@ Estoy buscando **prácticas** o un trabajo a tiempo parcial en desarrollo de sof
 
 **Lenguajes:** Java · Python · C · SQL · ensamblador<br>
 **Backend:** Spring Boot · Spring Data JPA · REST · SOAP/WSDL · Tomcat<br>
-**Datos, IA y señal:** PostgreSQL · MySQL · NumPy · SciPy · OpenCV · Matplotlib · procesamiento de voz<br>
+**Datos, IA y señal:** PostgreSQL · MySQL · SQLite · NumPy · SciPy · OpenCV · Matplotlib · procesamiento de voz<br>
 **Interfaces:** JavaFX · Tkinter<br>
-**Herramientas:** Git · Maven · JUnit · pytest · Linux
+**Automatización:** OCR (Tesseract) · extracción de datos de PDF · Streamlit · openpyxl<br>
+**Herramientas:** Git · GitHub Actions · Maven · JUnit · pytest · Linux
 
 ### Idiomas
 
